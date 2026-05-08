@@ -25,8 +25,8 @@ Currently developing proficiency in data analytics through the ALX Data Analytic
 
 - **Email**: thobiled_dhlamini@outlook.com
 - **LinkedIn**: [thobile-dhlamini-848179218](https://www.linkedin.com/in/thobile-dhlamini-848179218)
-- **GitHub**: [@Thobiled-ui](https://github.com/Thobile-bo)
--**WhatsApp**: 0822692314
+- **GitHub**: [@Thobiled-ui](https://github.com/Thobile-bot)
+- **WhatsApp**: 0822692314
 
 ## 🌐 Website Features
 
