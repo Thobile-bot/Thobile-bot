@@ -25,7 +25,7 @@ Currently developing proficiency in data analytics through the ALX Data Analytic
 
 I am currently most interested in Defensive Blue Team cybersecurity, threat detection, and security analysis. I enjoy understanding how systems are protected, identifying vulnerabilities, and learning how organizations can defend against cyber threats.
 
-Professional Identity
+### Professional Identity
 
 I want to be seen as:
 
@@ -37,9 +37,9 @@ Solution-Oriented
 Step 2: First Project Write-up
 Project Title
 
-Investigating a Suspicious IP Address
+### Investigating a Suspicious IP Address
 
-Objective
+### Objective
 
 The goal of this activity was to investigate suspicious network activity and identify whether an IP address could be associated with malicious behavior.
 
@@ -59,11 +59,11 @@ Findings
 
 The investigation showed unusual traffic behavior and connections associated with suspicious activity. The IP address had previously been reported in threat intelligence databases, indicating potential malicious use.
 
-Reflection / Learning
+### Reflection / Learning
 
 This activity helped me understand how cybersecurity analysts investigate suspicious network activity and use OSINT and packet analysis tools to identify threats. I also improved my understanding of network traffic analysis and threat detection processes.
 
-About Me
+### About Me
 
 My name is Thobile Dhlamini, and I am passionate about technology, cybersecurity, and data analytics. I am currently developing my technical skills through the ALX programme while building practical experience through digital projects and hands-on learning activities.
 
