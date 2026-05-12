@@ -21,7 +21,7 @@ A community-focused platform designed to connect local services and opportunitie
 ### Data Analytics Learning
 Currently developing proficiency in data analytics through the ALX Data Analytics programme, focusing on data-driven decision-making and analytical skills.
 
-Area of Cybersecurity That Excites Me
+### Area of Cybersecurity That Excites Me
 
 I am currently most interested in Defensive Blue Team cybersecurity, threat detection, and security analysis. I enjoy understanding how systems are protected, identifying vulnerabilities, and learning how organizations can defend against cyber threats.
 
@@ -63,7 +63,6 @@ Reflection / Learning
 
 This activity helped me understand how cybersecurity analysts investigate suspicious network activity and use OSINT and packet analysis tools to identify threats. I also improved my understanding of network traffic analysis and threat detection processes.
 
-Step 3: About Me
 About Me
 
 My name is Thobile Dhlamini, and I am passionate about technology, cybersecurity, and data analytics. I am currently developing my technical skills through the ALX programme while building practical experience through digital projects and hands-on learning activities.
@@ -72,7 +71,6 @@ I am particularly interested in cybersecurity operations, threat analysis, and d
 
 I bring strong problem-solving skills, adaptability, leadership experience, and a commitment to continuous learning.
 
-Step 4: Skills & Certifications
 Technical Skills
 TCP/IP Fundamentals
 DNS Basics
