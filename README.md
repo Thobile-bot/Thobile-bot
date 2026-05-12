@@ -21,6 +21,74 @@ A community-focused platform designed to connect local services and opportunitie
 ### Data Analytics Learning
 Currently developing proficiency in data analytics through the ALX Data Analytics programme, focusing on data-driven decision-making and analytical skills.
 
+Area of Cybersecurity That Excites Me
+
+I am currently most interested in Defensive Blue Team cybersecurity, threat detection, and security analysis. I enjoy understanding how systems are protected, identifying vulnerabilities, and learning how organizations can defend against cyber threats.
+
+Professional Identity
+
+I want to be seen as:
+
+Analytical
+Ethical
+Adaptable
+Proactive
+Solution-Oriented
+Step 2: First Project Write-up
+Project Title
+
+Investigating a Suspicious IP Address
+
+Objective
+
+The goal of this activity was to investigate suspicious network activity and identify whether an IP address could be associated with malicious behavior.
+
+Tools Used
+Wireshark
+VirusTotal
+WHOIS Lookup
+Basic Linux Commands
+Browser-based OSINT tools
+Process
+I started by reviewing the suspicious IP address and gathering basic information about its origin and activity.
+I used WHOIS lookup tools to identify ownership and hosting details related to the IP address.
+I checked the IP reputation using VirusTotal to determine whether it had been flagged as malicious.
+I analyzed network traffic patterns and reviewed packet data using Wireshark.
+I documented the findings and compared the results with known indicators of compromise.
+Findings
+
+The investigation showed unusual traffic behavior and connections associated with suspicious activity. The IP address had previously been reported in threat intelligence databases, indicating potential malicious use.
+
+Reflection / Learning
+
+This activity helped me understand how cybersecurity analysts investigate suspicious network activity and use OSINT and packet analysis tools to identify threats. I also improved my understanding of network traffic analysis and threat detection processes.
+
+Step 3: About Me
+About Me
+
+My name is Thobile Dhlamini, and I am passionate about technology, cybersecurity, and data analytics. I am currently developing my technical skills through the ALX programme while building practical experience through digital projects and hands-on learning activities.
+
+I am particularly interested in cybersecurity operations, threat analysis, and defensive security practices. My goal is to grow into a cybersecurity professional who can help organizations improve security, protect systems, and respond effectively to cyber threats.
+
+I bring strong problem-solving skills, adaptability, leadership experience, and a commitment to continuous learning.
+
+Step 4: Skills & Certifications
+Technical Skills
+TCP/IP Fundamentals
+DNS Basics
+OSINT (Open Source Intelligence)
+Network Traffic Analysis
+Cybersecurity Fundamentals
+Wireshark Basics
+Linux Basics
+Problem Solving
+Data Analytics Fundamentals
+Certifications & Learning Goals
+ALX Programme
+CompTIA Security+ (Planned)
+CompTIA Network+ (Planned)
+Google Cybersecurity Certificate (Planned)
+
 ## 📞 Contact Me
 
 - **Email**: thobiled_dhlamini@outlook.com
