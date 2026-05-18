@@ -34,8 +34,6 @@ Ethical
 Adaptable
 Proactive
 Solution-Oriented
-Step 2: First Project Write-up
-Project Title
 
 ### Investigating a Suspicious IP Address
 
