@@ -90,7 +90,7 @@ Google Cybersecurity Certificate (Planned)
 - **Email**: thobiled_dhlamini@outlook.com
 - **LinkedIn**: [thobile-dhlamini-848179218](https://www.linkedin.com/in/thobile-dhlamini-848179218)
 - **GitHub**: [@Thobile-bot](https://github.com/Thobile-bot)
-- **WhatsApp**: [0822692315]
+- **WhatsApp**: [@0822692314]
 
 ## 🌐 Website Features
 
